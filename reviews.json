@@ -1,0 +1,392 @@
+[
+    {
+        "description":"Upgrade old retired theme to make it compatible with newest wordpress.",
+        "comment":"An excellent, professional developer. First rate skills, service and communication. Will defently use again.",
+        "author":"Synlighet AS",
+        "date":"2016-10-20",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Expert Developer to Design and Develop Arabic Version of Divi Theme Website",
+        "comment":"Nabil is excellent! Communicates well and delivers great work. Pleasure working with him.",
+        "author":"Rayyan Faris",
+        "date":"2016-09-29",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"WooCommerce - Add Country and State\/Province select fields to \"My Account\" registration form.",
+        "comment":"Working with Nabil was awesome. He understood what we were trying to achieve and got our snippet sorted out quickly. Excellent communication, would highly recommend. :)",
+        "author":"Amber C.",
+        "date":"2016-09-19",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need a Review Plugin with many easy to edit functions & features.",
+        "comment":"Professional Eddicean",
+        "author":"Krix Luther",
+        "date":"2016-09-12",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Add a custom menu to Extra theme. One for logged in users and one for logged out users.",
+        "comment":"Nabil created an amazing plugin for us. He worked very fast and if we had any questions he helped right away!",
+        "author":"Brett Abel",
+        "date":"2016-08-24",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Need to increase number of images per listing in ElegantEstate theme by Elegant Themes.",
+        "comment":"The work was done quickly and perfectly. One thing, I would have preferred to be informed up front that the alterations would be in the form of a plugin, and of the possible pros and cons of this. Not that I'm at all unhappy, just that I would like to know in advance. All in all, I am very pleased.",
+        "author":"Susan Pomeroy",
+        "date":"2016-08-23",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need a new WordPress Plugin for my website in which when user (Student) signs up it should accept only university email addresses",
+        "comment":"Nabil was reasonable and quick in completing the task. He understood the project and its requirements well. He also probed questions to make sure that I know that he understands it well. I would highly recommend him as a happy and satisfied customer. And also I thank Codeable team for holding such great resources and sharing it in the best way possible with all the community people. Keep up the good work. Thank you. Regards, Vijay Kumar",
+        "author":"Vijay Kumar",
+        "date":"2016-08-19",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Resolve some 404 errors. 301 Redirects not Working for some reason.",
+        "comment":"Fast Service and great communication.",
+        "author":"Melissa Tuffield",
+        "date":"2016-08-09",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Exclude certain URLs from the redirect",
+        "author":"Thomas Nord\u00e9n",
+        "date":"2016-08-09",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Redirect traffic from UK to a different site",
+        "comment":"He did the job done, great communication.",
+        "author":"Thomas Nord\u00e9n",
+        "date":"2016-07-25",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"LearnDash Pro Panel - Group Adminstrator page update",
+        "comment":"Did and awesome job and has GREAT communication skills.",
+        "author":"Manny Campos",
+        "date":"2016-07-23",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Fix a conflict between a woocommerce extension and my theme (MAGNIUM V 1.5)",
+        "author":"Nigel Bahadur",
+        "date":"2016-07-14",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Premium Press: Restricting Listing Package to the parent category",
+        "comment":"Excellent and very quick work.",
+        "author":"Carl DeLuca",
+        "date":"2016-07-09",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Update WP Avada v. 3.2 - Child's theme theme to current theme version.",
+        "comment":"Nabil did a great job updating a complex Avada WP Child's theme with a major new release of the theme. I will use Nabil again for future projects.",
+        "author":"Mark Mazzuki",
+        "date":"2016-07-05",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Javascript to create dynamic row in HTML Table",
+        "comment":"Excellent job by Nabil. 5 stars. Would definitely use again.",
+        "author":"Ed Pattermann",
+        "date":"2016-06-30",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"create custom post code and time frame generator",
+        "author":"Jessica White",
+        "date":"2016-05-06",
+        "source":"codeable",
+        "rating":4
+    },
+    {
+        "description":"I need a plugin that let's my visitors \"Bookmark an Image\" and then show the, in the contact form so they can send an inquiry.",
+        "comment":"Amazing job! Developed the plugin just how I needed it to be. I'm really grateful with the effort and discipline he put on this. I'll definitely will work with him again !",
+        "author":"Arturo Cordero",
+        "date":"2016-04-23",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"W theme installation and customization",
+        "comment":"Nabil Kadimi is simply awesome.... He has done a good job",
+        "author":"muhammed fayiz",
+        "date":"2016-04-17",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Need help changing url of Wordpress site from subdirectory to root",
+        "comment":"Nabil delivered and helped with my site's migration ! He's friendly and communicates well, and does go the extra mile to sort out any problems ! Thank you :)",
+        "author":"Jono Chong",
+        "date":"2016-04-11",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Mandrill Integration",
+        "author":"Ken Bakos",
+        "date":"2016-04-10",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Need help with setting up adtracking javascript on website.",
+        "comment":"He went above and beyond my expectations. Great work.",
+        "author":"Charles Mixer",
+        "date":"2016-04-05",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Select files from a list and email attachments",
+        "comment":"Fast and productive",
+        "author":"Iosif Florentin",
+        "date":"2016-01-06",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"add widgets area, and add CSS to support widgets plugin",
+        "comment":"Very good professional, very satisfied with the results. I would work with again.",
+        "author":"Richard Rojas",
+        "date":"2015-10-08",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need a custom shortcode and widget developed for Events Calendar Pro.",
+        "comment":"Nabil is excellent to work with. His code is on point and he is very professional. I will be hiring him again, and I suggest you do, too.",
+        "author":"Keith Wallace",
+        "date":"2015-07-26",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Custom shortcode for Learndash LMS",
+        "comment":"Fast and professional, I look forward to working with Nabil again",
+        "author":"Mike Malone",
+        "date":"2015-07-13",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"WP blog looks \"funny\" all of a sudden on Chrome?!",
+        "comment":"awesome help again by Nabil. Fast and professional. I'll definitely work with him again.",
+        "author":"Franco Arda",
+        "date":"2015-06-26",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Create [short]code to show stock remaining of Woocommerce product on any page.",
+        "comment":"Work was done extremely quickly, included exceptionally well-done video documentation of implementation and usage, and was packaged in a way that was easy to setup and use. Incredible service!",
+        "author":"Travis Mount",
+        "date":"2015-06-25",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Pivot and Woocommerce - product catalog customization",
+        "comment":"Incredibly fast and efficient, will hire again!!",
+        "author":"Dan Dapper",
+        "date":"2015-06-23",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Bigger Blog Preview",
+        "comment":"great WP job by Nabil. super communication + FAST !!!",
+        "author":"Franco Arda",
+        "date":"2015-05-27",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need to restrict my woocommerce cart to only allow 1 product from specific product categories upon checkout.",
+        "author":"Kyle Held",
+        "date":"2015-04-24",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Solve an issue in capabilities.php and set-up of a staging environment for a WP Site",
+        "comment":"I appreciate Nabils pro-active approach, patience, time, clear communication and progress tracking, going more than one extra mile and giving suggestions I haven't considered\/didn't know of. I would also like to add that he delivers high quality and I am looking forward to working with him on a different project again",
+        "author":"Natascha Buck",
+        "date":"2015-04-01",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Changes to the custom email responder.",
+        "author":"Scott Dix",
+        "date":"2015-03-21",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"WP Web Site set up on a server, then domain redirect. Problems getting the URL & domain slugs to work properly (permalinks?)",
+        "comment":"Nabil was very helpful and got the task done quickly and smoothly.",
+        "author":"Henry Steimer",
+        "date":"2015-03-17",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need help optimising my wordpress \/ woocommerce installation",
+        "comment":"Nabil was very helpful in resolving my problem thank you I would definitely use again",
+        "author":"Matthew Simplay",
+        "date":"2015-03-09",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Create MU Plugin to send emails for s2Members when user role changes.",
+        "comment":"Outstanding work. Nabil put together a beautiful plugin for me. Would definitely hire again.",
+        "author":"Scott Dix",
+        "date":"2015-03-04",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Extend PIE-Register combined With AutoLogin Plugin",
+        "comment":"Fast, reliable with quality and easy to communicate with. Accomplished 100% of the tasks that I had asked for - highly recommended!",
+        "author":"Alex Daskalakis",
+        "date":"2015-03-01",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Extend the plugin Users to distinct the Unverified ones!",
+        "author":"Alex Daskalakis",
+        "date":"2015-02-26",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Change verbiage on form-register file and add a line of text with hyperlinks to terms and conditions and privacy policy",
+        "comment":"Nabil was great. Understood what I needed immediately, got to work on it right away and finished it really fast. He did exactly what I wanted... I'll be using codeable again.",
+        "author":"Zack Duhamel",
+        "date":"2015-02-24",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"-home page (shop page) doesn't respond\/can't add text and change it - setting shipping classes -organization and clarity on webstore.",
+        "comment":"I'm extremely satisfied with Nabil's work. Very professional, knowledgeable and quick. Thanks Nabil!",
+        "author":"ania massat",
+        "date":"2015-02-20",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Custom Product Template Option in WooCommerce",
+        "comment":"Fantastic service. Prompt, friendly, and well-done!",
+        "author":"Peter Ashbaugh",
+        "date":"2015-02-19",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need a WordPress theme edited so that line breaks in Internet Explorer work correctly.",
+        "author":"Robert Norcross",
+        "date":"2015-02-18",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"cross-domain REST API to receive customer orders with jquery \/ javascript",
+        "author":"Alex Daskalakis",
+        "date":"2015-02-18",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Custom Google Maps plugin",
+        "comment":"Nabil was remarkably thorough, exceeded my expectations, and was a pleasure to work with!",
+        "author":"Peter Ashbaugh",
+        "date":"2015-02-18",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"WooCommerce custom fields moved to below checkout",
+        "comment":"Another awesome job completed! Thank you! :)",
+        "author":"Lee Fletcher",
+        "date":"2015-02-17",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Parallax Failing on IE11",
+        "comment":"Easy to work and communicate with. Dove right in and discovered the issue very quickly. Would work with again.",
+        "author":"James Bohan-Pitt",
+        "date":"2015-02-14",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Using WPEngine, WPML, RAW themes. Navbar includes \"#\" before all page names in URLs, so no top nav links work.",
+        "author":"Brian Wobst",
+        "date":"2015-02-13",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Remove 'Purchase' option on products based on Tick Box fields (EDD FES and Marketify Theme)",
+        "comment":"Very efficient and responsive. Easy to work with, would recommend highly.",
+        "author":"David Johnson",
+        "date":"2015-02-12",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"WooCommerce checkout custom fields show\/hide based on payment option selected",
+        "comment":"Great work! Excellent, clear code, and great communication. Highly recommended!",
+        "author":"Lee Fletcher",
+        "date":"2015-02-11",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Product Archive page template modification for Woocommerce",
+        "comment":"Excellent communication, really fast work, and very useful and creative solution!",
+        "author":"Lee Fletcher",
+        "date":"2015-02-10",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Featured Image is not showing under Dashboard, Posts, Add New",
+        "comment":"Fast work - thank you!",
+        "author":"Joseph Nelson",
+        "date":"2015-02-06",
+        "source":"codeable",
+        "rating":5
+    }
+]
