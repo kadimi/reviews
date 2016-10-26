@@ -396,5 +396,253 @@
         "date":"2015-02-06",
         "source":"codeable",
         "rating":5
+    },
+    {
+        "description":"Minor customization of WP Open Graph WordPress plugin ",
+        "comment":"Always great working with Nabil. He's quick, responsive, and really knows how to code. He's also a pleasure to work with, communicates regularly and effectively, and is an asset to our team.",
+        "author":"@todo",
+        "date":"2016-07-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Wordpress Theme works ",
+        "comment":"Excellent work, nice person",
+        "author":"@todo",
+        "date":"2016-07-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Updates To WordPress Quote Form Plugin ",
+        "comment":"Nabil did an excellent job debugging and adding functionality to a data driven ajax components for a WordPress plugin dashboard",
+        "author":"@todo",
+        "date":"2016-05-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Add discount code function to WordPress Plugin ",
+        "comment":"Nabil did a great job of creating a discount code checker for an order form. He build an easy to used admin page for managing  discounts and created a good looking ajax spinner to check codes as you time on the front end. Thanks Nabil!",
+        "author":"@todo",
+        "date":"2016-03-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"WordPress Developer with Shareaholic plugin customization experience ",
+        "comment":"Second project we've worked on together, and Nabil was terrific yet again. Excellent quality of work, great communication, super patient with what seemed like unending questions from our end. Knows his code, and is highly professional, reliable and easy to work with. Will definitely work with again. Thanks!",
+        "author":"@todo",
+        "date":"2016-03-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Wordpress Plugin Development Part 2 ",
+        "comment":"Nabil has great jQuery and WordPress skills and put lot of effort into building a high quality user interface for a WordPress plugin.\r\n\r\nHe has in-depth knowledge of WordPress development and came up with solid solutions for a complex project.",
+        "author":"@todo",
+        "date":"2016-02-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Projects for WooCommerce Sites ",
+        "comment":"Nabil is a great resource for Wordpress development. Always available to help out in a timely manner and always delivers quality work. I won't hesitate to hire him again for future projects.",
+        "author":"@todo",
+        "date":"2016-01-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"WordPress Plugin Developer Skilled in PHP and jQuery ",
+        "comment":"Nabil completed some challenging work building a dynamic jQuery user interface for a WordPress plugin admin page.\r\n\r\nHe is a good collaborator via GitHub and kept me up to date on the project with Trello.\r\n\r\nThis project had a steep learning curve, however Nabil took his time to understand how the existing code worked in order to put together an effective solution and also had some good suggestions for improvements to project.",
+        "author":"@todo",
+        "date":"2015-12-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Create and Modify Wordpress Plugins ",
+        "comment":"REALLY REALLY enjoyed working with Nabil. Great work and easy to get in touch with",
+        "author":"@todo",
+        "date":"2015-10-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Long term project for PHP developer with strong Wordpress plugin experience (starts 7/20) ",
+        "comment":"Nabil was great to work with. Highly recommended. We will hire him again.",
+        "author":"@todo",
+        "date":"2015-08-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"WooCommerce Plugin Expert/Wordpress/PHP Developer ",
+        "comment":"Nabil has the mindset and expertise of a global developer. Most importantly, he is a teamplayer and goes the extra mile. He is highly recommendable.",
+        "author":"@todo",
+        "date":"2015-05-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Experienced WordPress Developer ",
+        "comment":"Excellent quality of work, I will definitely hire him again, highly recommended.",
+        "author":"@todo",
+        "date":"2015-03-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"WordPress Backend Developer wanted ",
+        "comment":"Quick turnover, outstanding communication, reliable and very professional. Highly recommended WordPress coder. Will definitely hire again.",
+        "author":"@todo",
+        "date":"2014-06-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Buy hosting and setup domains ",
+        "comment":"Everything was amazing, thank you so much.",
+        "author":"@todo",
+        "date":"2014-05-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"PSD to Joomla Template ",
+        "comment":"My go to guy for web programming again and again.",
+        "author":"@todo",
+        "date":"2013-05-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"WordPress WooCommerce plugin Authorize.net DPM plugin ",
+        "comment":"Nabil successfully found the cause of the problem, and then gave me well explained choices on how to fix it. After agreeing on a solution he was able to implement it well within the estimated time that he had earlier given me for the contract. I have nothing bad to say about this experience and look forward to working with him again.",
+        "author":"@todo",
+        "date":"2013-04-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"WordPress Ad Space help needed ",
+        "comment":"Great to work with!  Fast and great communication",
+        "author":"@todo",
+        "date":"2013-04-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"URGENT - Fix Wordpress admin login page in Rackspase hosting ",
+        "comment":"Thank you Imame",
+        "author":"@todo",
+        "date":"2013-04-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"senior drupal dev ",
+        "comment":"Nabil is always professional and knowledgeable",
+        "author":"@todo",
+        "date":"2013-04-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"need developer with drupal setup and server set up ",
+        "comment":"Nabil a very quick and professional job.",
+        "author":"@todo",
+        "date":"2013-01-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Wordpress website theme work. Skin a wordpress site to match existing website ",
+        "comment":"Nabil is a great developer who I will definitely hire again in the very near future!",
+        "author":"@todo",
+        "date":"2012-12-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Need help finding way to detect shapes on a webpage from overlaying each other ",
+        "comment":"Superb! Nabil was able to find a great solution for a complex issue.",
+        "author":"@todo",
+        "date":"2012-12-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Convert HTML site to Joomla ",
+        "comment":"Nabil is fantastic.  Particularly at Joomla work.  He works fast and keeps me informed of the progress.  Went beyond to make a site better.  Will hire again and if you have web work I would strongly recomend you hire him",
+        "author":"@todo",
+        "date":"2012-10-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Changes to existing Wordpress Template ",
+        "comment":"This is the 2nd or 3rd time hiring this contractor. He is very good provides nice reports of the work he is doing.  Very glad will be using again immediately.",
+        "author":"@todo",
+        "date":"2012-10-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Need a Mobile tech to post on Yahoo Answers ",
+        "comment":"A+, we will hire again!",
+        "author":"@todo",
+        "date":"2012-10-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Multiple Website Migrations via FTP ",
+        "comment":"excellent and efficient work.",
+        "author":"@todo",
+        "date":"2012-10-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Joomla Template and CSS Changes ",
+        "comment":"Have used several times now hes a great web contractor.  Did it right the first time once again.  Thanks!",
+        "author":"@todo",
+        "date":"2012-09-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"connect form with php and add auto responder ",
+        "comment":"outstanding php developer, will use again!",
+        "author":"@todo",
+        "date":"2012-08-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"Install MySQL and write a php mySQL basic authentication script ",
+        "comment":"Great PHP developer.  Worked on a team with my .NET developer and worked well.  Would hire again.",
+        "author":"@todo",
+        "date":"2012-07-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"simple small job, php.ini problem in Lite Commerce ",
+        "comment":"Did fast work, very talented, a great person to work with, Thanks",
+        "author":"@todo",
+        "date":"2012-07-01",
+        "source":"upwork",
+        "rating":5
+    },
+    {
+        "description":"FedEx Web Services setup error ",
+        "comment":"Nabil was very quick and responsive to my questions. Great job.",
+        "author":"@todo",
+        "date":"2012-06-01",
+        "source":"upwork",
+        "rating":5
     }
 ]
