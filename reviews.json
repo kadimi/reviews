@@ -1,5 +1,58 @@
 [
     {
+        "description":"My woocommerce site: xlgodis.se is slow, I need help to make it quick!",
+        "author":"Richard Hatleskog",
+        "date":"2017-02-05",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Stop add to cart from changing to view cart after adding to cart.",
+        "comment":"He did well and will be hiring him for any other projects I may have. Cheers!",
+        "author":"Rosa Houllier",
+        "date":"2017-02-04",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"'Listable' theme customization into a simple Multi-Vendor Marketplace. Integrate Vendor and User, and integrate Product and Listing.",
+        "author":"Calum Mackinnon",
+        "date":"2017-01-10",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I need a Gravity Forms Email + Briteverify API integration",
+        "author":"Kevin Michael",
+        "date":"2016-11-30",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I have a woo commerce store and in talking to woo they said I need to get a custome lifetime subscription made and they directed me to you.",
+        "comment":"Thank you! You really went above and beyond, I hope to work with you in the future!!! Thank you Again",
+        "author":"Keisa Davisson",
+        "date":"2016-11-14",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"I've updated and rewrote the task for WooCommerce, to have a Calendar on the Appointment Date page, Order Summary Box to display cart total",
+        "comment":"Looking forward to the next project working on with Nabil",
+        "author":"Chris Peck",
+        "date":"2016-11-11",
+        "source":"codeable",
+        "rating":5
+    },
+    {
+        "description":"Wordpress / php support on small fixes",
+        "comment":"Great and fast programmer!!",
+        "author":"Giz Ez",
+        "date":"2016-11-07",
+        "source":"codeable",
+        "rating":5
+    },
+    {
         "description":"Sync woocommerce (subscription) fields with mysql database",
         "comment":"Nabil went above and beyond this task. My requirements demanded additional time and work which was unexpected but my limited budget made it an issue. Nabil did what was best for me, the client, and performed a spectacular job. He completed the task regardless of my budget because he wanted to do a great job and help me. I strongly recommend his services because he is a great programmer and a very good person!",
         "author":"David Engel",
